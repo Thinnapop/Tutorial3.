@@ -1,3 +1,4 @@
+//672115019 Thinnapop Srisomboon
 public class Tutorial2 {
     public static void main(String[] args) {
         Stack studentStack = new Stack(7);
