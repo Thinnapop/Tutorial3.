@@ -1,3 +1,4 @@
+//672115019 Thinnapop Srisomboon
 public class Student {
     private String fName;
     private int SID;
