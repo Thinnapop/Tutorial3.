@@ -1,3 +1,4 @@
+//672115019 Thinnapop Srisomboon
 public class Stack {
     Student[] studentArr;
     int capacity;
